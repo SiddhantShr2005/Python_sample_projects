@@ -1,1 +1,1 @@
-This repository contains sample data structure python projects developed in collage lab. 
+This repository contains sample data structure and algorithm python projects developed in collage lab. 
